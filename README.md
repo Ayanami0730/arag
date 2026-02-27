@@ -211,7 +211,7 @@ A-RAG provides three retrieval tools that operate at different granularities:
 | MuSiQue | Multi-hop QA (2-4 hops) | [HuggingFace](https://huggingface.co/datasets/StonyBrookNLP/musique) |
 | HotpotQA | Multi-hop QA | [HuggingFace](https://huggingface.co/datasets/hotpot_qa) |
 | 2WikiMultiHopQA | Multi-hop QA | [GitHub](https://github.com/Alab-NII/2WikiMultiHopQA) |
-| GraphRAG-Bench | Graph RAG evaluation | [GitHub](https://github.com/HKUDS/GraphRAG-Bench) |
+| GraphRAG-Bench | Graph RAG evaluation | [HuggingFace](https://huggingface.co/datasets/GraphRAG-Bench/GraphRAG-Bench) |
 
 ### Custom Data Format
 
