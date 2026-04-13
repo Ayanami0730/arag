@@ -342,7 +342,7 @@ print(f"Loops: {result['loops']}")
 - [ ] **Ablation Interfaces**: Complete interfaces for ablation studies (w/o keyword search, w/o semantic search, w/o chunk read)
 - [ ] **Multi-Provider Support**: Native API support for Anthropic Claude and Google Gemini (currently only OpenAI-compatible APIs)
 - [ ] **Additional Benchmarks**: Scripts for HotpotQA, 2WikiMQA, and GraphRAG-Bench evaluation
-- [ ] **Visualization Tools**: Trajectory visualization and analysis tools
+- [x] **Visualization Tools**: Trajectory visualization and analysis tools (see [docs/visualization.md](docs/visualization.md))
 
 Contributions and feedback are welcome!
 
